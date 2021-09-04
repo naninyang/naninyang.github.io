@@ -1,6 +1,6 @@
 {
-  "status": false,
+  "status": true,
   "metropolitan": 4,
   "other": 3,
-  "message": "메시지 테스트"
+  "message": " "
 }
